@@ -1,3 +1,0 @@
-def CustMaven(String options = '-v') {
-    sh "mvn ${options}"
-}

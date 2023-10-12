@@ -1,0 +1,3 @@
+def CustMavenExec(String options = '-v') {
+    sh "mvn ${options}"
+}
