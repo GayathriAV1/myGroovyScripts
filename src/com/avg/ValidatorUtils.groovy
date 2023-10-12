@@ -1,3 +1,4 @@
+package com.avg;
 class ValidatorUtils {
 
 	static def validateInput(script) {
